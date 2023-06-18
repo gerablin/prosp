@@ -92347,7 +92347,7 @@ s($,"aZM","aHo",()=>{var q=t.z,p=A.ayh(A.a([$.aHk(),$.aHq()],t.Vz),null,q)
 return A.ho(A.aMN(p,q),new A.ari(),t.j,A.a1("dX"))})
 s($,"aZD","aHh",()=>{var q=t.Q,p=A.a1("dX")
 return A.aAf(A.aF6(A.aMk(A.awd("^",null),t.N),$.aHo(),q,p),new A.ar3(),q,p,p)})
-r($,"aWG","ax0",()=>{var q=new A.a81(A.iM("http://167.235.230.174:8081/graphql")),p=new A.a25(A.aP(A.a1("kg")))
+r($,"aWG","ax0",()=>{var q=new A.a81(A.iM("https://prosp.schieberdev.de:443/graphql")),p=new A.a25(A.aP(A.a1("kg")))
 q.r=p
 return q})
 s($,"aZK","aHm",()=>{var q=t.yo
